@@ -82,6 +82,7 @@ brain-tumor-detector
 
 
 ⚙️ Installation & Setup
+
 1️⃣ Clone the Repository
 git clone https://github.com/Pratyushanand1/brain-tumor-detector.git
 cd brain-tumor-detector
